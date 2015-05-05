@@ -1,0 +1,17 @@
+{
+	"name": "zhaofengli/bdmusic-php",
+	"type": "library",
+	"description": "PHP client of the in-house Baidu Music API",
+	"authors": [
+		{
+			"name": "Zhaofeng Li",
+			"email": "hello@zhaofeng.li"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-0": {
+			"Feng\\": "src/"
+		}
+	}
+}
